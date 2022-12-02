@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #57e34a;
+    margin: 20px 0;
+    font-family: sans-serif;
+}
+
+header
+{
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: aqua;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    
+}
+header>#up{
+    
+    margin: 50px;
+    overflow: hidden;
+    font-size: 2em;
+}
+.log{
+    box-shadow: 2px 3px 5px 7px rgba(0, 0, 0, 0.12), 2px 4px 6px 8px rgba(0, 0, 0, 0.19);
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: aliceblue;
+
+}
+
+nav{
+    background-color: rgba(56, 114, 240, 0.945);
+    padding: 12px;
+    padding-left: 5%;
+    border-radius: 2%;
+    
+}
+.nv
+{
+    background-color: #2b6ef3;
+    color: rgb(12, 12, 12);
+    font-family: Arial;
+    font-weight: 800;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 2px 5px;
+    border-style: double ;
+    border-radius: 5%;
+}
+#bl
+{
+    color: rgb(247, 40, 40);
+}
+ 
+main
+{   
+    padding: 40px;
+    overflow: hidden;
+}
+h2
+{
+    margin: 0% auto;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+article{
+    
+    padding: 3% 0% 2% 0%;
+    border-bottom: solid #40473f 1px;
+}
+section{
+    width: 65%;
+    float: left;
+}
+aside{
+    background: rgb(245, 242, 55);
+    margin-left: 50px;
+    width: 25%;
+    float: right;
+    border-radius: 10%;
+}
+
+#pic
+{    
+    margin-top: 20px;
+    align-items: center;
+    border-radius: 5%;
+    width: 100%;
+}
+
+
+#fot
+{
+    padding: 20px;
+    border-top: 2px solid rgb(189, 189, 189);
+    text-align: center;
+}
+h4
+{    
+    margin: 0% auto;
+}
+.lin
+{     
+    padding: 20px;
+}
+.a_img{
+    width: 100%;
+}
+#ab
+{
+    
+    text-align: center;
+    font-weight: 800;
+    border-bottom: solid #40473f;
+}
+p{
+    text-align: justify;
+}
+nav a:hover{
+    color: #f0c815;
+}
